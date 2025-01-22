@@ -83,9 +83,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'recipie_site',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'Satalan1925$',
         'HOST': '127.0.0.1',
-        'PORT': '3308',
+        'PORT': '3306',
     }
 }
 
