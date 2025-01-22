@@ -16,7 +16,7 @@ const UserProfile = () => {
                     </div>
                     <h3>About Me</h3>
                     <p>
-                        As a personal trainer, I need an easy-to-use app where I can see my schedule,
+                        gvhhjvhjbvhkhvnbhvbvbjn a personal trainer, I need an easy-to-use app where I can see my schedule,
                         manage my appointments, and add new members.
                     </p>
                 </div>
